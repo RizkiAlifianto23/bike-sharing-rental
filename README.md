@@ -15,4 +15,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 ## Screenshot
-
+![alt text]https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot1.jpg(?raw=true)
