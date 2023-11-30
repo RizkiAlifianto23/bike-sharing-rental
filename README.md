@@ -15,4 +15,9 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 ## Screenshot
-![alt text]https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot1.jpg(?raw=true)
+![alt text](https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot1.jpg?raw=true)
+![alt text](https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot2.jpg?raw=true)
+![alt text](https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot3.jpg?raw=true)
+![alt text](https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot4.jpg?raw=true)
+![alt text](https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot5.jpg?raw=true)
+![alt text](https://github.com/RizkiAlifianto23/bike-sharing-rental/blob/main/Screenshot/Screenshot6.jpg?raw=true)
